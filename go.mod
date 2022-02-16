@@ -1,4 +1,4 @@
-module github.com/nzmprlr/sqlpp
+module github.com/modanisa/sqlpp
 
 go 1.17
 

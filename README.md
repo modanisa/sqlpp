@@ -1,4 +1,4 @@
-# sqlpp [![GoDoc](https://godoc.org/github.com/nzmprlr/sqlpp?status.svg)](http://godoc.org/github.com/nzmprlr/sqlpp) [![Go Report Card](https://goreportcard.com/badge/github.com/nzmprlr/sqlpp)](https://goreportcard.com/report/github.com/nzmprlr/sqlpp) [![Coverage](http://gocover.io/_badge/github.com/nzmprlr/sqlpp)](http://gocover.io/github.com/nzmprlr/sqlpp)
+# sqlpp [![GoDoc](https://godoc.org/github.com/modanisa/sqlpp?status.svg)](http://godoc.org/github.com/modanisa/sqlpp) [![Go Report Card](https://goreportcard.com/badge/github.com/modanisa/sqlpp)](https://goreportcard.com/report/github.com/modanisa/sqlpp) [![Coverage](http://gocover.io/_badge/github.com/modanisa/sqlpp)](http://gocover.io/github.com/modanisa/sqlpp)
 
 sqlpp is a sql(`MySQL and PostgreSQL`) database connection wrapper to cache prepared statements by transforming queries (`"...in (?)...", []`) to use with array arguments.
 
